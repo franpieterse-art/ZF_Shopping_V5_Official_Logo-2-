@@ -1,0 +1,1 @@
+ZF Shopping V5 branding update based on a saved ZF SmartShop HTML version. Deploy as a Render Static Site with publish directory public. No build command required. This version retains manual price entry; it does not verify live store prices. Logo is a recreated bread-and-milk interpretation, not the original image asset.
